@@ -8,6 +8,7 @@ The system implements a distributed microservice architecture that separates com
 
 ![Click Note](https://github.com/user-attachments/assets/a3e66902-9598-4c17-89d0-874946734af8)
 
+The technical and conceptual details are defined in the following document: [Public API Network (PDF)](https://github.com/dnuno10/clicknote-ocr-microservice/blob/main/Public_API_Network_FINAL.pdf).
 
 ### System Flow Diagram
 
