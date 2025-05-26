@@ -235,11 +235,8 @@ X-SIGNATURE: calculated-hmac-signature
 
 The mobile client demonstrates production-ready integration with the OCR microservice.
 
-![ocr_menu_option](https://github.com/user-attachments/assets/fedc3b97-d8fa-404d-892a-50e1022bf7bc)
+![ocr_menu_option](https://github.com/user-attachments/assets/fedc3b97-d8fa-404d-892a-50e1022bf7bc) ![ocr_loading_fetch](https://github.com/user-attachments/assets/db7cba35-1c82-4525-a3df-edef9d635d70) ![ocr_result_display](https://github.com/user-attachments/assets/7bf6cdb4-325c-4665-9414-77e8ac863cba)
 
-![ocr_loading_fetch](https://github.com/user-attachments/assets/db7cba35-1c82-4525-a3df-edef9d635d70)
-
-![ocr_result_display](https://github.com/user-attachments/assets/7bf6cdb4-325c-4665-9414-77e8ac863cba)
 
 
 
