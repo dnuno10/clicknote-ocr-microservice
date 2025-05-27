@@ -442,7 +442,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - **Daniel Nuño** - dnuno@cetys.edu.mx
 - **Kevin Hernandez** - kevin.hernandez@cetys.edu.mx  
 - **Diego Hernandez** - diego.hernandez@cetys.edu.mx
-- **Professor Moises Sanchez Adame** - moises.adame@cetys.edu.mx
+- **Professor Moises Sanchez Adame** - moises.adame@cetys.mx
 
 Project Link: [https://github.com/dnuno10/clicknote-ocr-microservice](https://github.com/dnuno10/clicknote-ocr-microservice)
 
