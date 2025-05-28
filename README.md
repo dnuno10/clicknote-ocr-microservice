@@ -1,4 +1,4 @@
-# ClickNote OCR Microservice
+# Click Note OCR Microservice
 
 A cloud-native, secure Optical Character Recognition (OCR) microservice built with FastAPI and Microsoft's TrOCR model. This project implements a hybrid architecture where OCR inference runs on local hardware while providing a scalable, cloud-hosted API accessible to mobile applications and other clients.
 
