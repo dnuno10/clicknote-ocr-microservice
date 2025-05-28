@@ -442,7 +442,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - **Daniel Nuño** - dnuno@cetys.edu.mx
 - **Kevin Hernandez** - kevin.hernandez@cetys.edu.mx  
 - **Diego Hernandez** - diego.hernandez@cetys.edu.mx
-- **Professor Moises Sanchez Adame** - moises.adame@cetys.mx
 
 Project Link: [https://github.com/dnuno10/clicknote-ocr-microservice](https://github.com/dnuno10/clicknote-ocr-microservice)
 
@@ -453,7 +452,7 @@ If you use this project in your research or development, please cite:
 ```
 @article{nuno2025clicknote,
   title={Public API Network: A Cloud-Native OCR Microservice Implementation},
-  author={Nuño, Daniel and Hernandez, Kevin and Hernandez, Diego and Adame, Moises Sanchez},
+  author={Nuño, Daniel and Hernandez, Kevin and Hernandez, Diego and Adame},
   journal={Networks and Communication Final Project},
   year={2025},
   institution={CETYS University}
